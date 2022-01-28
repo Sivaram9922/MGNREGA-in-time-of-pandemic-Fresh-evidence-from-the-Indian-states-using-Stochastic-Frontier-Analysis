@@ -1,6 +1,6 @@
 ### Table of Contents
-* [Dataset]
-* [Variable info]
+* Dataset
+* Variables used
 * Published conference paper
 * Abstract of paper
 
